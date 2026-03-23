@@ -10,7 +10,8 @@ Solutions to LeetCode problems in Python.
 | 167 | Two Sum II | Medium | [Link](https://github.com/architajain101/leetcode/blob/main/leetcode%20167%20.%20number%20of%20two%20sum.py) |
 | 83  | Remove Duplicates | Easy | [Link](https://github.com/architajain101/leetcode/blob/main/leetcode%2083%20.%20number%20of%20two%20sum.py) |
 | 15  | 3 sum | Medium |[link](https://github.com/architajain101/leetcode/blob/main/leetcode%2015%20.%203_sum.py) |
-
+| 16  | 3_sum closest | Medium |[link](https://github.com/architajain101/leetcode/blob/main/16.%203Sum%20Closest.py)  |
+ 
 
 ## Languages Used
 - Python 🐍
